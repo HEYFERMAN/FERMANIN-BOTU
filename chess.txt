@@ -1,0 +1,6 @@
+0 rook
+1 pawn
+2 queen
+3 knight
+4 king
+5 bishop
